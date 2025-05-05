@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BigPoppa\\Desktop\\.net project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0438B13F-F2CD-B6AF-FF6F-3BD7FF42860E}|PFAA.UI.csproj|c:\\users\\bigpoppa\\desktop\\.net project\\pfaa.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0438B13F-F2CD-B6AF-FF6F-3BD7FF42860E}|PFAA.UI.csproj|solutionrelative:pfaa.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0438B13F-F2CD-B6AF-FF6F-3BD7FF42860E}|PFAA.UI.csproj|c:\\users\\bigpoppa\\desktop\\.net project\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0438B13F-F2CD-B6AF-FF6F-3BD7FF42860E}|PFAA.UI.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0438B13F-F2CD-B6AF-FF6F-3BD7FF42860E}|PFAA.UI.csproj|C:\\Users\\BigPoppa\\Desktop\\.net project\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0438B13F-F2CD-B6AF-FF6F-3BD7FF42860E}|PFAA.UI.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\BigPoppa\\Desktop\\.net project\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\BigPoppa\\Desktop\\.net project\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Forms\\MainForm.cs",
+              "ViewState": "AgIAAG4JAAAAAAAAAAAqwIEJAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:02:15.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BigPoppa\\Desktop\\.net project\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\BigPoppa\\Desktop\\.net project\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:00:00.286Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PFAA.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\BigPoppa\\Desktop\\.net project\\PFAA.UI.csproj",
+              "RelativeDocumentMoniker": "PFAA.UI.csproj",
+              "ToolTip": "C:\\Users\\BigPoppa\\Desktop\\.net project\\PFAA.UI.csproj",
+              "RelativeToolTip": "PFAA.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T20:16:36.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
